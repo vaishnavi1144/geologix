@@ -1,0 +1,34 @@
+[
+  {
+    "pdf": "c:/Users/vanga/Downloads/APUS_Masterlog (1).pdf",
+    "reference_xlsx": "c:/Users/vanga/Downloads/APUS_Masterlog (1)_geologix.xlsx",
+    "description": "APUS Masterlog with lithology column, accessories, and reference geologix export"
+  },
+  {
+    "pdf": "c:/Users/vanga/Downloads/ONGC Complog (1).pdf",
+    "reference_xlsx": null,
+    "description": "ONGC Completion Log (variable-width grain size / hardness encoding)"
+  },
+  {
+    "pdf": "c:/Users/vanga/Downloads/ONGC Masterlog (1).pdf",
+    "reference_xlsx": null,
+    "description": "ONGC Masterlog (variable-width beds)"
+  },
+  {
+    "pdf": "c:/Users/vanga/Downloads/ONGC Onshore Masterlog.pdf",
+    "reference_xlsx": null,
+    "description": "ONGC Onshore Masterlog (full-width beds with repetitive trace markers)"
+  },   
+  {
+    "pdf": "c:/Users/vanga/Downloads/CC (1).pdf",
+    "reference_xlsx": null,
+    "expected_error": "Legend yields only 0 lithology entries (fewer than 3 required).",
+    "description": "Composite chart without a standard lithology legend (fails loudly)"
+  },
+  {
+    "pdf": "c:/Users/vanga/Downloads/ovl_complog (1).pdf",
+    "reference_xlsx": null,
+    "unit": "ft",
+    "description": "Well log calibrated in feet (ft) (supports depth units in feet)"
+  }
+]

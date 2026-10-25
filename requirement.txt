@@ -1,0 +1,17 @@
+# Core Web & API Framework
+Flask>=3.0.0
+
+# PDF & Document Processing
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+pikepdf>=8.0.0
+pillow>=10.0.0
+
+# Numerical & Data Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Testing & Verification
+pytest>=8.0.0
+requests>=2.31.0
