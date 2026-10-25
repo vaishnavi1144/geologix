@@ -1,10 +1,10 @@
-# LithX Prototype
+# GeologiX
 
 Automated Well Log Analysis & Lithology Extractor from borehole PDF logs.
 
 ## Overview
 
-LithX is an automated tool designed to parse geological borehole PDFs, detect lithological columns, analyze stratigraphic patterns/depth markers, and export structured interval records to Excel spreadsheets (`.xlsx`).
+GeologiX is an automated tool designed to parse geological borehole PDFs, detect lithological columns, analyze stratigraphic patterns/depth markers, and export structured interval records to Excel spreadsheets (`.xlsx`).
 
 ## Features
 
